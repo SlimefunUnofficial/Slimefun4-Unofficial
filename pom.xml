@@ -15,7 +15,7 @@
 
     <!-- Project Info -->
     <description>Slimefun is a Spigot/Paper plugin that simulates a modpack-like atmosphere by adding over 500 new items and recipes to your Minecraft Server.</description>
-    <url>https://github.com/Slimefun4Unofficial/Slimefun4-Unofficial</url>
+    <url>https://github.com/SlimefunUnofficial/Slimefun4-Unofficial</url>
 
     <properties>
         <!-- UTF-8 is our standard encoding for source files -->
@@ -40,14 +40,14 @@
     <issueManagement>
         <!-- Bug Tracker -->
         <system>GitHub Issues</system>
-        <url>https://github.com/Slimefun4Unofficial/Slimefun4-Unofficial/issues</url>
+        <url>https://github.com/SlimefunUnofficial/Slimefun4-Unofficial/issues</url>
     </issueManagement>
 
     <licenses>
         <license>
             <!-- License -->
             <name>GNU General Public License v3.0</name>
-            <url>https://github.com/Slimefun4Unofficial/Slimefun4-Unofficial/blob/master/LICENSE</url>
+            <url>https://github.com/SlimefunUnofficial/Slimefun4-Unofficial/blob/master/LICENSE</url>
             <distribution>repo</distribution>
         </license>
     </licenses>
